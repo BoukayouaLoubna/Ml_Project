@@ -8,11 +8,10 @@ A recommendation system is one of the strongest systems for increasing profits b
 
 ## Objectifs
 
- A book recommendation system is designed to recommend books of interest to the buyer.
- 
-The purpose of a book recommendation system is to predict buyer’s interest and recommend books to them accordingly. 
- 
-A book recommendation system can take into account many parameters like book content and book quality by filtering user reviews.
+- A book recommendation system is designed to recommend books of interest to the buyer.  
+- The purpose of a book recommendation system is to predict buyer’s interest and recommend books to them accordingly.  
+- A book recommendation system can take into account many parameters like book content and book quality by filtering user reviews.  
+
 
 ## Project Architecture
 
@@ -30,14 +29,14 @@ The dataset under consideration comprises comprehensive information about books,
 ## Data Exploration:background analysis
 
 ### data vesualisation:
--vesualisation the relation between feature avarage rating and  other features
--This comprehensive analysis will contributeinsights to refine our recommendation system.
+- Visualization: exploring the relationship between average rating and other features  
+- This comprehensive analysis will contribute insights to refine our recommendation system.
 
 ## Data Preparation:
 
-creating a categorical feature (avrage_parts)
-encoding categorical variables as binary vectors
-concatenate of data frames
+- Creating a categorical feature (average_parts)  
+- Encoding categorical variables as binary vectors  
+- Concatenating data frames  
 
 ## Modelling
 
@@ -58,13 +57,13 @@ By emphasizing the similarity of features between a provided book and the recomm
 
 ## Tools 
 
-Python
-Jupyter Notebook
-NumPy
-Pandas
-scikit-learn
-Matplotlib
-Seaborn
+- Python  
+- Jupyter Notebook  
+- NumPy  
+- Pandas  
+- scikit-learn  
+- Matplotlib  
+- Seaborn  
 
 ## Welcoming 
 
