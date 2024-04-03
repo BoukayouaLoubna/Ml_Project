@@ -41,12 +41,12 @@ concatenate of data frames
 
 ## Modelling
 
--data spliting :  training and testing sets
--data normlization: Min-Max scaling method’s
--deploy the K-Nearest Neighbors (KNN) and Random Forest algorithm
--Model Initialization
--Model Fitting on the training set
--Finding Nearest Neighbors on the testing set
+- Data splitting: training and testing sets  
+- Data normalization: Min-Max scaling method’s  
+- Deploy the K-Nearest Neighbors (KNN) and Random Forest algorithm  
+- Model Initialization  
+- Model Fitting on the training set  
+- Finding Nearest Neighbors on the testing set  
 
 ## Model evaluation
 
